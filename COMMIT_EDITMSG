@@ -1,1 +1,4 @@
-first commit
+Repository name : nama repository(isi saja dengan nama proyek), akan lebih rapi kalau misalnya nama repository juga di beri jenis pemogramannya juga contohnya “Android/test” atau “js/test”.
+Description : deskripsi repository (bisa kisah project dan siapa yang terlibat)
+Public/Private : kondisi repository mau di public (di buat umum) atau private(di buat pribadi atau tertutup)
+Intiallize the repository with README : ini adalah isi dokumentasi pada project yang dikerjakan, saya sarankan tidak usah di centang karena mempermudah praktek untuk mengelola git.
